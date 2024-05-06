@@ -1,0 +1,18 @@
+id_sub_region,id_region,sub_region
+1,1,"Southern Asia"
+2,2,"Northern Europe"
+3,2,"Southern Europe"
+4,3,"Northern Africa"
+5,4,Polynesia
+6,3,"Sub-Saharan Africa"
+7,5,"Latin America and the Caribbean"
+8,1,"Western Asia"
+9,4,"Australia and New Zealand"
+10,2,"Western Europe"
+11,2,"Eastern Europe"
+12,5,"Northern America"
+13,1,"South-eastern Asia"
+14,1,"Eastern Asia"
+15,4,Melanesia
+16,4,Micronesia
+17,1,"Central Asia"

@@ -1,0 +1,210 @@
+id_country,id_sub_region,Country
+1,1,Afghanistan
+2,3,Albania
+3,4,Algeria
+4,5,"American Samoa"
+5,3,Andorra
+6,6,Angola
+7,7,"Antigua and Barbuda"
+8,7,Argentina
+9,8,Armenia
+10,7,Aruba
+11,9,Australia
+12,10,Austria
+13,8,Azerbaijan
+14,7,Bahamas
+15,8,Bahrain
+16,1,Bangladesh
+17,7,Barbados
+18,11,Belarus
+19,10,Belgium
+20,7,Belize
+21,6,Benin
+22,12,Bermuda
+23,1,Bhutan
+24,7,Bolivia
+25,3,"Bosnia and Herzegovina"
+26,6,Botswana
+27,7,Brazil
+28,13,"Brunei Darussalam"
+29,11,Bulgaria
+30,6,"Burkina Faso"
+31,6,Burundi
+32,6,"Cabo Verde"
+33,13,Cambodia
+34,6,Cameroon
+35,12,Canada
+36,7,"Cayman Islands"
+37,6,"Central African Republic"
+38,6,Chad
+39,7,Chile
+40,14,China
+41,7,Colombia
+42,6,Comoros
+43,6,Congo
+44,7,"Costa Rica"
+45,3,Croatia
+46,7,Cuba
+47,8,Cyprus
+48,11,"Czech Republic"
+49,2,Denmark
+50,6,Djibouti
+51,7,Dominica
+52,7,"Dominican Republic"
+53,7,Ecuador
+54,4,Egypt
+55,7,"El Salvador"
+56,6,"Equatorial Guinea"
+57,6,Eritrea
+58,2,Estonia
+59,6,Eswatini
+60,6,Ethiopia
+61,2,"Faroe Islands"
+62,15,Fiji
+63,2,Finland
+64,10,France
+65,7,"French Guiana"
+66,5,"French Polynesia"
+67,6,Gabon
+68,6,Gambia
+69,8,Georgia
+70,10,Germany
+71,6,Ghana
+72,3,Gibraltar
+73,3,Greece
+74,12,Greenland
+75,7,Grenada
+76,7,Guadeloupe
+77,16,Guam
+78,7,Guatemala
+79,6,Guinea
+80,7,Guyana
+81,7,Haiti
+82,7,Honduras
+83,11,Hungary
+84,2,Iceland
+85,1,India
+86,13,Indonesia
+87,1,Iran
+88,8,Iraq
+89,2,Ireland
+90,2,"Isle of Man"
+91,8,Israel
+92,3,Italy
+93,7,Jamaica
+94,14,Japan
+95,8,Jordan
+96,17,Kazakhstan
+97,6,Kenya
+98,16,Kiribati
+99,14,"South Korea"
+100,8,Kuwait
+101,17,Kyrgyzstan
+102,13,Laos
+103,2,Latvia
+104,8,Lebanon
+105,6,Lesotho
+106,6,Liberia
+107,4,Libya
+108,10,Liechtenstein
+109,2,Lithuania
+110,10,Luxembourg
+111,6,Madagascar
+112,6,Malawi
+113,13,Malaysia
+114,1,Maldives
+115,6,Mali
+116,3,Malta
+117,16,"Marshall Islands"
+118,7,Martinique
+119,6,Mauritania
+120,6,Mauritius
+121,6,Mayotte
+122,7,Mexico
+123,11,Moldova
+124,10,Monaco
+125,14,Mongolia
+126,3,Montenegro
+127,4,Morocco
+128,6,Mozambique
+129,13,Myanmar
+130,6,Namibia
+131,16,Nauru
+132,1,Nepal
+133,10,Netherlands
+134,15,"New Caledonia"
+135,9,"New Zealand"
+136,7,Nicaragua
+137,6,Niger
+138,6,Nigeria
+139,3,Macedonia
+140,16,"Northern Mariana Islands"
+141,2,Norway
+142,8,Oman
+143,1,Pakistan
+144,16,Palau
+145,7,Panama
+146,15,"Papua New Guinea"
+147,7,Paraguay
+148,7,Peru
+149,13,Philippines
+150,11,Poland
+151,3,Portugal
+152,7,"Puerto Rico"
+153,8,Qatar
+154,11,Romania
+155,11,Russia
+156,6,Rwanda
+157,7,"Saint Lucia"
+158,7,"Saint Vincent and the Grenadines"
+159,5,Samoa
+160,3,"San Marino"
+161,6,"Sao Tome and Principe"
+162,8,"Saudi Arabia"
+163,6,Senegal
+164,3,Serbia
+165,6,Seychelles
+166,6,"Sierra Leone"
+167,13,Singapore
+168,7,"Sint Maarten (Dutch part)"
+169,11,Slovakia
+170,3,Slovenia
+171,15,"Solomon Islands"
+172,6,Somalia
+173,6,"South Africa"
+174,6,"South Sudan"
+175,3,Spain
+176,1,"Sri Lanka"
+177,4,Sudan
+178,7,Suriname
+179,2,Sweden
+180,10,Switzerland
+181,8,Syria
+182,14,Taiwan
+183,17,Tajikistan
+184,6,Tanzania
+185,13,Thailand
+186,13,Timor-Leste
+187,6,Togo
+188,5,Tonga
+189,7,"Trinidad and Tobago"
+190,4,Tunisia
+191,8,Turkey
+192,17,Turkmenistan
+193,7,"Turks and Caicos Islands"
+194,5,Tuvalu
+195,6,Uganda
+196,11,Ukraine
+197,8,"United Arab Emirates"
+198,2,"United Kingdom"
+199,12,"United States"
+200,7,Uruguay
+201,17,Uzbekistan
+202,15,Vanuatu
+203,7,Venezuela
+204,13,Vietnam
+205,7,"Virgin Islands (U.S.)"
+206,4,"Western Sahara"
+207,8,Yemen
+208,6,Zambia
+209,6,Zimbabwe
